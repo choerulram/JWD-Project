@@ -9,11 +9,11 @@ SIPENKA adalah sebuah sistem pendataan karyawan yang dikembangkan menggunakan PH
 - Cetak data
 
 ## Instalasi
-1. Clone repository: `git clone https://github.com/username/sipenka.git`
-2. Masuk ke direktori proyek: `cd sipenka`
+1. Clone repository: `git clone https://github.com/choerulram/JWD-Project.git`
+2. Masuk ke direktori proyek: `cd JWD-Project`
 3. Import database: `sipenka.sql`
 4. Edit file `config.php` dan sesuaikan dengan konfigurasi database Anda
-5. Buka aplikasi di browser: `http://localhost/sipenka`
+5. Buka aplikasi di browser: `http://localhost/JWD-Project`
 
 ## Penggunaan
 1. Login ke aplikasi menggunakan akun berikut:
